@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ncmbianchi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
@@ -13,13 +13,14 @@
     </a>
 </div>
 
-<div id="counter">
+<div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=ncmbianchi&style=for-the-badge&color=red" alt=""/>
 </div>
 
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **NCMBianchi/NCMBianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
