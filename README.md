@@ -5,11 +5,18 @@
   <a href="https://gitlab.com/NCMBianchi">
     <img src="https://img.shields.io/badge/gitlab-black?logo=gitlab&logoColor=orange&style=for-the-badge" alt="Gitlab Badge"/>
     </a>
+  <a href="https://huggingface.co/NCMBianchi">
+    <img src="https://img.shields.io/badge/huggingface-yellow?logo=huggingface&logoColor=black&style=for-the-badge" alt="Gitlab Badge"/>
+    </a>
+  <br>
   <a href="https://goshootit.net">
     <img src="https://img.shields.io/badge/blog-grey?logo=wordpress&logoColor=white&style=for-the-badge" alt="Blog Badge"/>
     </a>
   <a href="https://goshootit.myportfolio.com">
-    <img src="https://img.shields.io/badge/portfolio-red?logo=adobe&logoColor=darkred&style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/photography-red?logo=adobe&logoColor=darkred&style=for-the-badge" alt="Photography Portfolio Badge"/>
+    </a>
+  <a href="https://dribbble.com/ncmbianchi/collections">
+    <img src="https://img.shields.io/badge/design-pink?logo=dribbble&logoColor=purple&style=for-the-badge" alt="Design Portfolio Badge"/>
     </a>
 </div>
 
