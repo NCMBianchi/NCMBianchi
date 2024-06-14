@@ -15,8 +15,8 @@
   <a href="https://goshootit.myportfolio.com">
     <img src="https://img.shields.io/badge/photography-red?logo=adobe&logoColor=darkred&style=for-the-badge" alt="Photography Portfolio Badge"/>
     </a>
-  <a href="https://dribbble.com/ncmbianchi/collections">
-    <img src="https://img.shields.io/badge/design-pink?logo=dribbble&logoColor=purple&style=for-the-badge" alt="Design Portfolio Badge"/>
+  <a href="https://www.behance.net/NCMBianchi">
+    <img src="https://img.shields.io/badge/design-blue?logo=behance&logoColor=white&style=for-the-badge" alt="Design Portfolio Badge"/>
     </a>
 </div>
 
