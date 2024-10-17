@@ -26,7 +26,7 @@
 
 <br>
 <div id="header" align="center">
-  Interested in bioinformatics, generative models, photography, graphic design.
+  Interested in bioinformatics, data science, machine learning, photography, graphic design.
 </div>
 
 ---
