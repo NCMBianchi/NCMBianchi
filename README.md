@@ -22,7 +22,7 @@
 
 <div id="counter" align="center">
   <a href="https://orcid.org/0009-0000-4202-7154">
-    <img src="https://img.shields.io/badge/design-darkgreen?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID iD Badge"/>
+    <img src="https://img.shields.io/badge/research-darkgreen?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID iD Badge"/>
   <img src="https://komarev.com/ghpvc/?username=ncmbianchi&style=for-the-badge&color=red" alt=""/>
 </div>
 
