@@ -18,11 +18,16 @@
   <a href="https://www.behance.net/NCMBianchi">
     <img src="https://img.shields.io/badge/design-blue?logo=behance&logoColor=white&style=for-the-badge" alt="Design Portfolio Badge"/>
     </a>
+  <br>
+  <a href="https://orcid.org/0009-0000-4202-7154">
+    <img src="https://img.shields.io/badge/research-darkgreen?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID iD Badge"/>
+    </a>
+  <a href="https://support.bioconductor.org/u/80934/">
+    <img src="https://img.shields.io/badge/bioconductor-lightgrey?logo=r&logoColor=white&style=for-the-badge" alt="Bioconductor Badge"/>
+    </a>
 </div>
 
 <div id="counter" align="center">
-  <a href="https://orcid.org/0009-0000-4202-7154">
-    <img src="https://img.shields.io/badge/research-darkgreen?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID iD Badge"/>
   <img src="https://komarev.com/ghpvc/?username=ncmbianchi&style=for-the-badge&color=red" alt=""/>
 </div>
 
