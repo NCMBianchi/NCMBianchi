@@ -1,26 +1,35 @@
+<!-- 
+Info on badges an logos:
+https://shields.io/badges
+https://shields.io/docs/logos
+https://simpleicons.org
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCMBianchi&size_weight=0.5&count_weight=0.5&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=ncmbianchi&color=red" alt=""/>
   <a href="https://www.linkedin.com/in/ncmbianchi/">
     <img src="https://img.shields.io/badge/CV-LinkedIn-0A66C2?logo=Read.cv&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   <a href="https://orcid.org/0009-0000-4202-7154">
-    <img src="https://img.shields.io/badge/CV-orcID-darkgreen?logo=orcid&logoColor=white" alt="ORCID iD Badge"/>
+    <img src="https://img.shields.io/badge/CV-orcID-A6CE39?logo=orcid&logoColor=white" alt="ORCID iD Badge"/>
     </a>
   <br>
   <a href="https://gitlab.com/NCMBianchi">
-    <img src="https://img.shields.io/badge/code-gitlab-orange?logo=gitlab&logoColor=orange" alt="Gitlab Badge"/>
+    <img src="https://img.shields.io/badge/code-gitlab-FC6D26?logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
     </a>
   <a href="https://gitlab.com/NCMBianchi">
-    <img src="https://img.shields.io/badge/code-gitea-green?logo=gitea&logoColor=green" alt="Gitea Badge"/>
+    <img src="https://img.shields.io/badge/code-gitea-609926?logo=gitea&logoColor=white" alt="Gitea Badge"/>
     </a>
   <a href="https://support.bioconductor.org/u/80934/">
-    <img src="https://img.shields.io/badge/code-bioconductor-lightgrey?logo=r&logoColor=white" alt="Bioconductor Badge"/>
+    <img src="https://img.shields.io/badge/code-bioconductor-1A81C2?logo=r&logoColor=white" alt="Bioconductor Badge"/>
     </a>
   <a href="https://www.kaggle.com/nbianchi">
-    <img src="https://img.shields.io/badge/code-kaggle-lightblue?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/code-kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
   <a href="https://huggingface.co/NCMBianchi">
-    <img src="https://img.shields.io/badge/code-huggingface-yellow?logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
+    <img src="https://img.shields.io/badge/code-huggingface-FFD21E?logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
     </a>
 </div>
 
@@ -29,7 +38,7 @@
   Interested in bioinformatics, data science, machine learning, photography, graphic design.
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCMBianchi&size_weight=0.5&count_weight=0.5&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
