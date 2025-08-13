@@ -65,13 +65,13 @@ https://simpleicons.org
   </a>
   <br>
   <a href="https://fishshell.com">
-    <img src="https://img.shields.io/badge/shell-fish 4.0.2-black?logo=fishshell&logoColor=green" alt="macOS Badge"/>
+    <img src="https://img.shields.io/badge/shell-fish 4.0.2-black?logo=fishshell&logoColor=green" alt="fish Badge"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/shell-bash 5.3-black?logo=gnubash&logoColor=green" alt="macOS Badge"/>
+    <img src="https://img.shields.io/badge/shell-bash 5.3-black?logo=gnubash&logoColor=green" alt="bash Badge"/>
   </a>
   <a href="https://zsh.sourceforge.io/News/">
-    <img src="https://img.shields.io/badge/shell-zsh 5.9-black?logo=zsh&logoColor=green" alt="macOS Badge"/>
+    <img src="https://img.shields.io/badge/shell-zsh 5.9-black?logo=zsh&logoColor=green" alt="zsh Badge"/>
   </a>
 </div>
 
