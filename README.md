@@ -1,40 +1,35 @@
-<div id="badges" align="center">
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=ncmbianchi&color=red" alt=""/>
   <a href="https://www.linkedin.com/in/ncmbianchi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/CV-LinkedIn-0A66C2?logo=Read.cv&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  <a href="https://orcid.org/0009-0000-4202-7154">
+    <img src="https://img.shields.io/badge/CV-orcID-darkgreen?logo=orcid&logoColor=white" alt="ORCID iD Badge"/>
+    </a>
+  <br>
+  <a href="https://gitlab.com/NCMBianchi">
+    <img src="https://img.shields.io/badge/code-gitlab-orange?logo=gitlab&logoColor=orange" alt="Gitlab Badge"/>
     </a>
   <a href="https://gitlab.com/NCMBianchi">
-    <img src="https://img.shields.io/badge/gitlab-black?logo=gitlab&logoColor=orange&style=for-the-badge" alt="Gitlab Badge"/>
-    </a>
-  <a href="https://huggingface.co/NCMBianchi">
-    <img src="https://img.shields.io/badge/huggingface-yellow?logo=huggingface&logoColor=black&style=for-the-badge" alt="Gitlab Badge"/>
-    </a>
-  <br>
-  <a href="https://goshootit.net">
-    <img src="https://img.shields.io/badge/blog-grey?logo=wordpress&logoColor=white&style=for-the-badge" alt="Blog Badge"/>
-    </a>
-  <a href="https://goshootit.myportfolio.com">
-    <img src="https://img.shields.io/badge/photography-red?logo=adobe&logoColor=darkred&style=for-the-badge" alt="Photography Portfolio Badge"/>
-    </a>
-  <a href="https://www.behance.net/NCMBianchi">
-    <img src="https://img.shields.io/badge/design-blue?logo=behance&logoColor=white&style=for-the-badge" alt="Design Portfolio Badge"/>
-    </a>
-  <br>
-  <a href="https://orcid.org/0009-0000-4202-7154">
-    <img src="https://img.shields.io/badge/research-darkgreen?logo=orcid&logoColor=white&style=for-the-badge" alt="ORCID iD Badge"/>
+    <img src="https://img.shields.io/badge/code-gitea-green?logo=gitea&logoColor=green" alt="Gitea Badge"/>
     </a>
   <a href="https://support.bioconductor.org/u/80934/">
-    <img src="https://img.shields.io/badge/bioconductor-lightgrey?logo=r&logoColor=white&style=for-the-badge" alt="Bioconductor Badge"/>
+    <img src="https://img.shields.io/badge/code-bioconductor-lightgrey?logo=r&logoColor=white" alt="Bioconductor Badge"/>
     </a>
-</div>
-
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ncmbianchi&style=for-the-badge&color=red" alt=""/>
+  <a href="https://www.kaggle.com/nbianchi">
+    <img src="https://img.shields.io/badge/code-kaggle-lightblue?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+  <a href="https://huggingface.co/NCMBianchi">
+    <img src="https://img.shields.io/badge/code-huggingface-yellow?logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
+    </a>
 </div>
 
 <br>
-<div id="header" align="center">
+<div id="header">
   Interested in bioinformatics, data science, machine learning, photography, graphic design.
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCMBianchi&size_weight=0.5&count_weight=0.5&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -93,6 +88,16 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCMBianchi&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ncmbianchi&hide_border=true&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
+<div>
+  <a href="https://goshootit.net">
+    <img src="https://img.shields.io/badge/personal-blog-grey?logo=wordpress&logoColor=white" alt="Blog Badge"/>
+    </a>
+  <a href="https://goshootit.myportfolio.com">
+    <img src="https://img.shields.io/badge/personal-photography-red?logo=adobe&logoColor=darkred" alt="Photography Portfolio Badge"/>
+    </a>
+  <a href="https://www.behance.net/NCMBianchi">
+    <img src="https://img.shields.io/badge/personal-design-blue?logo=behance&logoColor=white" alt="Design Portfolio Badge"/>
+    </a>
+</div>
