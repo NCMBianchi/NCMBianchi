@@ -10,7 +10,7 @@ https://simpleicons.org
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=ncmbianchi&color=red" alt=""/>
   <a href="https://www.linkedin.com/in/ncmbianchi/">
-    <img src="https://img.shields.io/badge/CV-LinkedIn-0A66C2?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyMCAyMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICANCiAgICA8dGl0bGU+bGlua2VkaW4gWyMxNjFdPC90aXRsZT4NCiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCiAgICA8ZGVmcz4NCg0KPC9kZWZzPg0KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPg0KICAgICAgICA8ZyBpZD0iRHJpYmJibGUtTGlnaHQtUHJldmlldyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE4MC4wMDAwMDAsIC03NDc5LjAwMDAwMCkiIGZpbGw9IiMwMDAwMDAiPg0KICAgICAgICAgICAgPGcgaWQ9Imljb25zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1Ni4wMDAwMDAsIDE2MC4wMDAwMDApIj4NCiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQ0LDczMzkgTDE0MCw3MzM5IEwxNDAsNzMzMi4wMDEgQzE0MCw3MzMwLjA4MSAxMzkuMTUzLDczMjkuMDEgMTM3LjYzNCw3MzI5LjAxIEMxMzUuOTgxLDczMjkuMDEgMTM1LDczMzAuMTI2IDEzNSw3MzMyLjAwMSBMMTM1LDczMzkgTDEzMSw3MzM5IEwxMzEsNzMyNiBMMTM1LDczMjYgTDEzNSw3MzI3LjQ2MiBDMTM1LDczMjcuNDYyIDEzNi4yNTUsNzMyNS4yNiAxMzkuMDgzLDczMjUuMjYgQzE0MS45MTIsNzMyNS4yNiAxNDQsNzMyNi45ODYgMTQ0LDczMzAuNTU4IEwxNDQsNzMzOSBMMTQ0LDczMzkgWiBNMTI2LjQ0Miw3MzIzLjkyMSBDMTI1LjA5Myw3MzIzLjkyMSAxMjQsNzMyMi44MTkgMTI0LDczMjEuNDYgQzEyNCw3MzIwLjEwMiAxMjUuMDkzLDczMTkgMTI2LjQ0Miw3MzE5IEMxMjcuNzksNzMxOSAxMjguODgzLDczMjAuMTAyIDEyOC44ODMsNzMyMS40NiBDMTI4Ljg4NCw3MzIyLjgxOSAxMjcuNzksNzMyMy45MjEgMTI2LjQ0Miw3MzIzLjkyMSBMMTI2LjQ0Miw3MzIzLjkyMSBaIE0xMjQsNzMzOSBMMTI5LDczMzkgTDEyOSw3MzI2IEwxMjQsNzMyNiBMMTI0LDczMzkgWiIgaWQ9ImxpbmtlZGluLVsjMTYxXSI+DQoNCjwvcGF0aD4NCiAgICAgICAgICAgIDwvZz4NCiAgICAgICAgPC9nPg0KICAgIDwvZz4NCjwvc3ZnPg==&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/CV-LinkedIn-0A66C2?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyMCAyMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICANCiAgICA8dGl0bGU+bGlua2VkaW4gWyMxNjFdPC90aXRsZT4NCiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCiAgICA8ZGVmcz4NCjwvZGVmcz4NCiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbC1ydWxlPSJldmVub2RkIj4NCiAgICAgICAgPGcgaWQ9IkRyaWJiYmxlLUxpZ2h0LVByZXZpZXciIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xODAuMDAwMDAwLCAtNzQ3OS4wMDAwMDApIj4NCiAgICAgICAgICAgIDxnIGlkPSJpY29ucyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTYuMDAwMDAwLCAxNjAuMDAwMDAwKSI+DQogICAgICAgICAgICAgICAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIiBpZD0ibGlua2VkaW4tWyMxNjFdIj4NCjwvcGF0aD4NCiAgICAgICAgICAgIDwvZz4NCiAgICAgICAgPC9nPg0KICAgIDwvZz4NCjwvc3ZnPg==" alt="LinkedIn Badge"/>
     </a>
   <a href="https://orcid.org/0009-0000-4202-7154">
     <img src="https://img.shields.io/badge/CV-orcID-A6CE39?logo=orcid&logoColor=white" alt="ORCID iD Badge"/>
@@ -27,7 +27,7 @@ https://simpleicons.org
     </a>
   <br>
   <a href="https://www.kaggle.com/nbianchi">
-    <img src="https://img.shields.io/badge/code-kaggle-20BEFF?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18xIiBkYXRhLW5hbWU9IkxpdmVsbG8gMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTI0IDkyMCI+CiAgPHBhdGggZD0iTTExMywwYzMuODQsMS4zNSw4LDYuNTEsOCwxMC41djU1MC41bDI0Mi42Ny0yNDMuODNjMy44Ny0yLjE3LDcuMy0zLjgsMTEuNzktNC4yMSw0MC4wNy0zLjYsODUuNDQsMi44MSwxMjYuMDgsMCwxMC4xMy0uMSwxNC44MywxMC45NiwxMC4wMiwxOS4xMWwtMjUxLjU0LDI0My40MywyNjEuNzEsMzI1LjI3LDIuMjcsOC4yM3YxMWgtMTM4bC03LjkxLTQuNTktMjAyLjU5LTI1Ni4zOS01NC4yOSw1MS42OS0uMTcsMTk1LjgzYy0uNTYsNi41My0yLjE5LDEwLjMyLTguMDMsMTMuNDdIMFYwaDExM1oiLz4KPC9zdmc+&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/code-kaggle-20BEFF?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18xIiBkYXRhLW5hbWU9IkxpdmVsbG8gMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTI0IDkyMCI+CiAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMTMsMGMzLjg0LDEuMzUsOCw2LjUxLDgsMTAuNXY1NTAuNWwyNDIuNjctMjQzLjgzYzMuODctMi4xNyw3LjMtMy44LDExLjc5LTQuMjEsNDAuMDctMy42LDg1LjQ0LDIuODEsMTI2LjA4LDAsMTAuMTMtLjEsMTQuODMsMTAuOTYsMTAuMDIsMTkuMTFsLTI1MS41NCwyNDMuNDMsMjYxLjcxLDMyNS4yNywyLjI3LDguMjN2MTFoLTEzOGwtNy45MS00LjU5LTIwMi41OS0yNTYuMzktNTQuMjksNTEuNjktLjE3LDE5NS44M2MtLjU2LDYuNTMtMi4xOSwxMC4zMi04LjAzLDEzLjQ3SDBWMGgxMTNaIi8+Cjwvc3ZnPg==" alt="Kaggle Badge"/>
     </a>
   <a href="https://huggingface.co/NCMBianchi">
     <img src="https://img.shields.io/badge/code-huggingface-FFD21E?logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
@@ -35,10 +35,7 @@ https://simpleicons.org
 </div>
 
 <br>
-<div id="header">
-  Interested in bioinformatics, data science, machine learning, photography, graphic design.
-</div>
-
+2024 MSc graduate in <b>Bioinformatics for computational genomics</b>, interested in developing data analysis pipeline and tools to facilitate scientific research (mostly in Python and R).
 
 ---
 
@@ -94,17 +91,18 @@ https://simpleicons.org
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
+My Erasmus+ thesis at Universiteit Leiden (NL) lead to 5 additional months of after-graduation research and a currently under peer-review BMC Bioinformatics paper.
 
 ---
 
-
+My hobbies include analog and digital photography, creative writing, basic graphic design, coffee and tea brewing,and custom keyboards.
 
 <div>
   <a href="https://goshootit.net">
     <img src="https://img.shields.io/badge/personal-blog-21759B?logo=wordpress&logoColor=white" alt="Blog Badge"/>
     </a>
   <a href="https://goshootit.myportfolio.com">
-    <img src="https://img.shields.io/badge/personal-photography-ED2224?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18yIiBkYXRhLW5hbWU9IkxpdmVsbG8gMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzkuMzggMzQuOSI+CiAgPGcgaWQ9IkxheWVyXzEiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+CiAgICA8cGF0aCBkPSJNMTQuNjUsMGgxMC4yNWwxNC40OCwzNC45aC0xMC44NGwtOS4xNi0yMy4xNy02LjA1LDE1LjIxaDcuMTlsMi44Nyw3Ljk3SDBMMTQuNjUsMFoiLz4KICA8L2c+Cjwvc3ZnPg==&logoColor=darkred" alt="Photography Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/personal-photography-ED2224?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18yIiBkYXRhLW5hbWU9IkxpdmVsbG8gMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzkuMzggMzQuOSI+CiAgPGcgaWQ9IkxheWVyXzEiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+CiAgICA8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE0LjY1LDBoMTAuMjVsMTQuNDgsMzQuOWgtMTAuODRsLTkuMTYtMjMuMTctNi4wNSwxNS4yMWg3LjE5bDIuODcsNy45N0gwTDE0LjY1LDBaIi8+CiAgPC9nPgo8L3N2Zz4=" alt="Photography Portfolio Badge"/>
     </a>
   <a href="https://www.behance.net/NCMBianchi">
     <img src="https://img.shields.io/badge/personal-design-1769FF?logo=behance&logoColor=white" alt="Design Portfolio Badge"/>
