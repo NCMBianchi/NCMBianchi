@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1017.01 1020">
+  <g id="Livello_1-2" data-name="Livello 1">
+    <g>
+      <polygon fill="white" points="1017 0 1017.01 484.01 465 488 465 80 1009 0 1017 0"/>
+      <polygon fill="white" points="0 531 416 534 416 936 0 879 0 531"/>
+      <polygon fill="white" points="0 144 416 87 416 489 0 491 0 144"/>
+      <path fill="white" d="M1017,538v482l-551.89-78.11c-.43-70.13.18-140.3-.06-210.44-.01-3.08-1.08-5.83-1.1-8.9-.22-61.85.27-123.72.04-185.55l553.01,1.01Z"/>
+    </g>
+  </g>
+</svg>
