@@ -19,12 +19,13 @@ https://simpleicons.org
   <a href="https://gitlab.com/NCMBianchi">
     <img src="https://img.shields.io/badge/code-gitlab-FC6D26?logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
     </a>
-  <a href="https://gitlab.com/NCMBianchi">
+  <a href="https://gitea.com/ncmbianchi">
     <img src="https://img.shields.io/badge/code-gitea-609926?logo=gitea&logoColor=white" alt="Gitea Badge"/>
     </a>
   <a href="https://support.bioconductor.org/u/80934/">
     <img src="https://img.shields.io/badge/code-bioconductor-1A81C2?logo=r&logoColor=white" alt="Bioconductor Badge"/>
     </a>
+  <br>
   <a href="https://www.kaggle.com/nbianchi">
     <img src="https://img.shields.io/badge/code-kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
@@ -37,7 +38,6 @@ https://simpleicons.org
 <div id="header">
   Interested in bioinformatics, data science, machine learning, photography, graphic design.
 </div>
-
 
 
 ---
@@ -101,12 +101,12 @@ https://simpleicons.org
 
 <div>
   <a href="https://goshootit.net">
-    <img src="https://img.shields.io/badge/personal-blog-grey?logo=wordpress&logoColor=white" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/personal-blog-21759B?logo=wordpress&logoColor=white" alt="Blog Badge"/>
     </a>
   <a href="https://goshootit.myportfolio.com">
-    <img src="https://img.shields.io/badge/personal-photography-red?logo=adobe&logoColor=darkred" alt="Photography Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/personal-photography-ED2224?logo=adobe&logoColor=darkred" alt="Photography Portfolio Badge"/>
     </a>
   <a href="https://www.behance.net/NCMBianchi">
-    <img src="https://img.shields.io/badge/personal-design-blue?logo=behance&logoColor=white" alt="Design Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/personal-design-1769FF?logo=behance&logoColor=white" alt="Design Portfolio Badge"/>
     </a>
 </div>
