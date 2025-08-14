@@ -61,20 +61,20 @@ https://simpleicons.org
     <img src="https://img.shields.io/badge/OS-22.1-87CF3E?logo=linuxmint&logoColor=white" alt="Linux Mint Badge"/>
   </a>
   <a href="https://www.microsoft.com/en-gb/software-download/windows11arm64">
-    <img src="https://img.shields.io/badge/OS-11 arm64-0078D4?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18yIiBkYXRhLW5hbWU9IkxpdmVsbG8gMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAxNy4wMSAxMDIwIj4KICA8ZyBpZD0iTGl2ZWxsb18xLTIiIGRhdGEtbmFtZT0iTGl2ZWxsbyAxIj4KICAgIDxnPgogICAgICA8cG9seWdvbiBmaWxsPSJ3aGl0ZSIgcG9pbnRzPSIxMDE3IDAgMTAxNy4wMSA0ODQuMDEgNDY1IDQ4OCA0NjUgODAgMTAwOSAwIDEwMTcgMCIvPgogICAgICA8cG9seWdvbiBmaWxsPSJ3aGl0ZSIgcG9pbnRzPSIwIDUzMSA0MTYgNTM0IDQxNiA5MzYgMCA4NzkgMCA1MzEiLz4KICAgICAgPHBvbHlnb24gZmlsbD0id2hpdGUiIHBvaW50cz0iMCAxNDQgNDE2IDg3IDQxNiA0ODkgMCA0OTEgMCAxNDQiLz4KICAgICAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMDE3LDUzOHY0ODJsLTU1MS44OS03OC4xMWMtLjQzLTcwLjEzLjE4LTE0MC4zLS4wNi0yMTAuNDQtLjAxLTMuMDgtMS4wOC01LjgzLTEuMS04LjktLjIyLTYxLjg1LjI3LTEyMy43Mi4wNC0xODUuNTVsNTUzLjAxLDEuMDFaIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4=&logoColor=white" alt="Windows Badge"/>
+    <img src="https://img.shields.io/badge/OS-11_arm64-0078D4?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGl2ZWxsb18yIiBkYXRhLW5hbWU9IkxpdmVsbG8gMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAxNy4wMSAxMDIwIj4KICA8ZyBpZD0iTGl2ZWxsb18xLTIiIGRhdGEtbmFtZT0iTGl2ZWxsbyAxIj4KICAgIDxnPgogICAgICA8cG9seWdvbiBmaWxsPSJ3aGl0ZSIgcG9pbnRzPSIxMDE3IDAgMTAxNy4wMSA0ODQuMDEgNDY1IDQ4OCA0NjUgODAgMTAwOSAwIDEwMTcgMCIvPgogICAgICA8cG9seWdvbiBmaWxsPSJ3aGl0ZSIgcG9pbnRzPSIwIDUzMSA0MTYgNTM0IDQxNiA5MzYgMCA4NzkgMCA1MzEiLz4KICAgICAgPHBvbHlnb24gZmlsbD0id2hpdGUiIHBvaW50cz0iMCAxNDQgNDE2IDg3IDQxNiA0ODkgMCA0OTEgMCAxNDQiLz4KICAgICAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMDE3LDUzOHY0ODJsLTU1MS44OS03OC4xMWMtLjQzLTcwLjEzLjE4LTE0MC4zLS4wNi0yMTAuNDQtLjAxLTMuMDgtMS4wOC01LjgzLTEuMS04LjktLjIyLTYxLjg1LjI3LTEyMy43Mi4wNC0xODUuNTVsNTUzLjAxLDEuMDFaIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4=&logoColor=white" alt="Windows Badge"/>
   </a>
   <br>
   <a href="https://tails.net/install/index.it.html">
     <img src="https://img.shields.io/badge/OS-6.18-56347C?logo=tails&logoColor=white" alt="Tails Badge"/>
   </a>
   <a href="https://fishshell.com">
-    <img src="https://img.shields.io/badge/shell-fish 4.0.2-black?logo=fishshell&logoColor=green" alt="fish Badge"/>
+    <img src="https://img.shields.io/badge/shell-fish_4.0.2-black?logo=fishshell&logoColor=green" alt="fish Badge"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/shell-bash 5.3-black?logo=gnubash&logoColor=green" alt="bash Badge"/>
+    <img src="https://img.shields.io/badge/shell-bash_5.3-black?logo=gnubash&logoColor=green" alt="bash Badge"/>
   </a>
   <a href="https://zsh.sourceforge.io/News/">
-    <img src="https://img.shields.io/badge/shell-zsh 5.9-black?logo=zsh&logoColor=green" alt="zsh Badge"/>
+    <img src="https://img.shields.io/badge/shell-zsh_5.9-black?logo=zsh&logoColor=green" alt="zsh Badge"/>
   </a>
 </div>
 
