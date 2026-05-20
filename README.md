@@ -32,6 +32,10 @@ https://simpleicons.org
   <a href="https://huggingface.co/NCMBianchi">
     <img src="https://img.shields.io/badge/code-huggingface-FFD21E?logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
   </a>
+  </a>
+  <a href="https://gist.github.com/NCMBianchi">
+    <img src="https://img.shields.io/badge/code-gists-181717?logo=github&logoColor=white" alt="Github Gist Badge"/>
+  </a>
 </div>
 <br>
 
